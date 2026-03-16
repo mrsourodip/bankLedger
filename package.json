@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "bankledger",
+  "version": "1.0.0",
+  "description": "Banking system using Express & MongoDB",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsourodip/bankLedger.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "bankSystem"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsourodip/bankLedger/issues"
+  },
+  "homepage": "https://github.com/mrsourodip/bankLedger#readme"
+}
